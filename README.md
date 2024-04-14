@@ -1,4 +1,4 @@
-![Preview](https://github.com/CaptainSakura/Homepage/assets/157750673/e1288d35-256a-4f3f-a59d-6e6e49218b23)# A capella group Pentatonix
+# A capella group Pentatonix
 
 ## Description
 
@@ -7,7 +7,7 @@ This project is a basic website layout containing information about my favourite
 _Project was created as part of learning HTML, CSS, and JavaScript._
 
 ## Preview
-![](link)
+![]([link](https://github.com/CaptainSakura/Homepage/assets/157750673/e1288d35-256a-4f3f-a59d-6e6e49218b23))
 
 ## Demo
 
