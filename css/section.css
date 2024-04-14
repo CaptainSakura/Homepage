@@ -1,0 +1,124 @@
+.section__tourImage {
+  width: 100%;
+  margin: 0 auto;
+  height: auto;
+}
+
+.section__header {
+  text-align: center;
+}
+
+.section__paragraph {
+  text-align: justify;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.section__paragraph--centered {
+  text-align: center;
+  margin-top: 0%;
+}
+
+.section__button {
+  background-color: #ffffff;
+  color: #4bc4c4;
+  border: 1px solid #44aaaa;
+  border-radius: 5px;
+  font-size: 24px;
+  padding: 10px;
+  text-decoration: none;
+  transition-duration: 0.4s;
+  text-transform: uppercase;
+  margin: 5px 5px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.section__button:hover {
+  background-color: #44aaaa;
+  color: #ffffff;
+  border: 1px solid #44aaaa;
+}
+
+.section__membersImage {
+  width: 100%;
+}
+
+.section__paragraph--coloured {
+  color: #149191;
+  text-align: center;
+  display: block;
+}
+
+.section__container {
+  overflow-x: auto;
+}
+
+.section__tableHeader {
+  background-color: rgba(212, 88, 226, 0.188);
+}
+
+.section__tableRow:nth-child(even) {
+  background-color: rgb(232, 183, 204);
+}
+
+.section__tableRow:hover {
+  background-color: aqua;
+}
+
+.section__tableCell {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+}
+
+.section__table {
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 70px;
+  box-shadow: 10px 6px 20px 6px #010000;
+}
+
+.section__tableCaption {
+  border-style: solid;
+  border-width: 1px;
+  border-bottom-width: 1px;
+  background-color: rgb(183, 183, 189);
+  font-weight: 900;
+  font-size: large;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.section__tableCell {
+  background-color: rgba(212, 88, 226, 0.188);
+}
+
+.section__tableCell--header {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #010000;
+  padding: 20px;
+  background-color: #d170d191;
+}
+
+.section__tableRow:nth-child(even) {
+  background-color: rgb(232, 183, 204);
+}
+
+.section__tableRow:hover {
+  background-color: aqua;
+}
+
+.section__contact {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.section__header--highlighted {
+  background-color: bisque;
+  margin: 20px;
+  border-radius: 30px;
+}

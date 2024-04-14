@@ -1,0 +1,14 @@
+.headerPentatonix {
+  background-color: rgba(89, 190, 197, 0.72);
+  border-radius: 20px;
+  font-family: "Shantell Sans", cursive;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 1px 2px 5px #000000cc;
+  margin: 20px;
+}
+
+.headerPrimary {
+  font-size: 50px;
+  margin: 20px;
+}

@@ -1,0 +1,29 @@
+.nav {
+  margin: 20px;
+  text-align: center;
+  box-sizing: content-box;
+  background-color: antiquewhite;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+.nav__item {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.nav__link {
+  padding: 10px;
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  font-size: medium;
+  color: rgb(98, 158, 158);
+}
+
+.nav__link:hover {
+  color: rgba(66, 203, 212, 0.829);
+}
+
+.nav__link:active {
+  color: red;
+}
