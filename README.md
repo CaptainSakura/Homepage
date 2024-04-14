@@ -1,4 +1,4 @@
-# A capella group Pentatonix
+# A capella group "Pentatonix"
 
 ## Description
 
