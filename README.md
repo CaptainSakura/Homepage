@@ -10,7 +10,7 @@ _Project was created as part of learning HTML, CSS, and JavaScript._
 
 ## Demo
 
-Check how the website [HERE](https://captainsakura.github.io/Homepage/)
+Check how the website [HERE](https://captainsakura.github.io/Homepage/).
 
 ## Features
 
