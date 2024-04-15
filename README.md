@@ -30,6 +30,7 @@ Check now the website [HERE](https://captainsakura.github.io/Homepage/).
 - HTML
 - CSS
 - JavaScript
+- BEM
 
 ## Author
 
