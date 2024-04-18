@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a basic website layout containing information about my favourite music a ccapella group "Pentatonix" or short "PTX". Their ability to reinvent popular songs with their unique a cappella arrangements never fails. Above all, I am endlessly inspired by their passion for music what I wanted to emphasize while creating this website.
+This project is a basic website layout containing information about my favourite music a capella group "Pentatonix" or short "PTX". Their ability to reinvent popular songs with their unique a cappella arrangements never fails. Above all, I am endlessly inspired by their passion for music what I wanted to emphasize while creating this website.
 
 _Project was created as part of learning HTML, CSS, and JavaScript._
 
